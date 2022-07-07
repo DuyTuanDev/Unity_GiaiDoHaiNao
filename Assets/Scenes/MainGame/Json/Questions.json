@@ -1,0 +1,165 @@
+{
+	"myQuestions":
+	[
+	  {
+			"question": "Đồng gì mặc được?",
+			"answerTrue": "Đồng phục",
+		  "answerFalse1": "Đồng dâm",
+		  "answerFalse2": "Đồng tiền",
+		  "answerFalse3": "Đồng ruộng",
+		  "explain": "Chắc là nó rồi."
+	  },
+	  {
+			"question": "Đồng gì mà đa số ai cũng thích?",
+			"answerTrue": "Đồng tiền",
+		  "answerFalse1": "Đồng phục",
+		  "answerFalse2": "Đồng dâm",
+		  "answerFalse3": "Đồng ruộng",
+		  "explain": "Ngoài các đồng kia thì còn đồng nào bằng đồng tiền."
+	  },
+	  {
+			"question": "Bối cảnh diễn ra câu chuyện “Chí Phèo” của nhà văn Nam Cao là ở làng nào?",
+			"answerTrue": "Làng Vũ Đại",
+		  "answerFalse1": "Làng Cao Su",
+		  "answerFalse2": "Làng Cổ",
+		  "answerFalse3": "Làng Tone",
+		  "explain": "Bạn học Văn quá giỏi."
+	  },
+	  {
+			"question": "Bánh gì không ăn được?",
+			"answerTrue": "Bánh xe",
+		  "answerFalse1": "Bánh đậu xanh",
+		  "answerFalse2": "Bánh Sinh Nhật",
+		  "answerFalse3": "Bánh bông lan",
+		  "explain": "Đố thánh nào ăn được cái bánh xe =("
+	  },
+	  {
+			"question": "Khi thấy 1 cô gái xay xỉn, bạn sẽ làm gì?",
+			"answerTrue": "Hỏi mọi người",
+		  "answerFalse1": "Nhìn vào chỗ ấy",
+		  "answerFalse2": "Bóc lịch",
+		  "answerFalse3": "Hiếp",
+		  "explain": "Mình cũng không biết nên làm gì"
+	  },
+	  {
+			"question": "Crush của bạn có thích bạn không?",
+			"answerTrue": "Không",
+		  "answerFalse1": "Hình như là có",
+		  "answerFalse2": "Có",
+		  "answerFalse3": "Hình như là không",
+		  "explain": "Đúng rồi! Rứt khoát lắm. Làm gì có chuyện Crush của bạn thích bạn chứ T_T!!"
+	  },
+	  {
+			"question": "Con bò với con vịt đẻ ra con gì?",
+			"answerTrue": "Bò cạp",
+		  "answerFalse1": "Con vịt",
+		  "answerFalse2": "Ai mà biết",
+		  "answerFalse3": "Con bò",
+		  "explain": "Con bò kêu 'Bò' con vịt kêu 'Cạp' nên đẻ ra con 'Bò cạp' phải hông mấy chế :3!!"
+	  },
+	  {
+			"question": "Con gì dài nhất?",
+			"answerTrue": "Con đường",
+		  "answerFalse1": "Con rắn",
+		  "answerFalse2": "Con trăn",
+		  "answerFalse3": "Con chó",
+		  "explain": "Làm gì có con gì dài hơn con đường, có thì chắc là quái vật rồi."
+	  },
+	  {
+			"question": "Ăn thịt của đường tăng thì trường sinh bất tử, vậy ăn thịt của khủng long thì làm sao?",
+			"answerTrue": "Hỏi chán thế",
+		  "answerFalse1": "Chết sớm",
+		  "answerFalse2": "Sống vài năm",
+		  "answerFalse3": "Bình thường",
+		  "explain": "Chuẩn rồi làm gì có khủng long mà ăn."
+	  },
+	  {
+			"question": "Con gà trống ngủ với con gà mái thì bạn làm gì?",
+			"answerTrue": "Kệ nó",
+		  "answerFalse1": "Quay video",
+		  "answerFalse2": "Tách nó ra",
+		  "answerFalse3": "Thịt nó",
+		  "explain": "Điều bình thường như cân đường hộp sửa mà!"
+	  },
+	  {
+				"question": "Nếu bạn muốn mua Tivi thì phải đến đâu?",
+				"answerTrue": "Điện máy xanh",
+			"answerFalse1": "Siêu thị",
+			"answerFalse2": "Chợ",
+			"answerFalse3": "Cửa hàng",
+			"explain": "Bạn chưa nghe: Bạn muốn mua Tivi hãy đến điện máy xanh à=))."
+		},
+		{
+				"question": "Điền tiếp câu sau: Uống nước nhớ ...?",
+				"answerTrue": "Tiểu",
+			"answerFalse1": "Nơi sản xuất",
+			"answerFalse2": "Nhà",
+			"answerFalse3": "Nguồn",
+			"explain": "Uống nước mà không đi tiểu coi chứng xanh cỏ đó nha."
+		},
+		{
+				"question": "Đố bạn biết biển gì không có nước?",
+				"answerTrue": "Biển báo",
+			"answerFalse1": "Biển đen",
+			"answerFalse2": "Biển đỏ",
+			"answerFalse3": "Biển",
+			"explain": "Ủa đơn giản mà."
+		},
+		{
+				"question": "Cái gì càng chơi càng ra nước?",
+				"answerTrue": "Đánh răng",
+			"answerFalse1": "Xúc động",
+			"answerFalse2": "Trốn tìm",
+			"answerFalse3": "Trò 2 người",
+			"explain": "Ủa nghĩ gì vậy má =("
+		},
+		{
+				"question": "Đố bạn cà gì dài nhất?",
+				"answerTrue": "Cà mau",
+			"answerFalse1": "Cà ấy",
+			"answerFalse2": "Cà tím",
+			"answerFalse3": "Cà khịa",
+			"explain": "Cà mau dài nhất còn gì nữa."
+		},
+		{
+				"question": "Từ gì mà bạn lấy đi một chữ cái và bạn còn lại bốn?",
+				"answerTrue": "Banh",
+			"answerFalse1": "Bảo",
+			"answerFalse2": "Bạn",
+			"answerFalse3": "Bốn",
+			"explain": "Mình cũng hông biết nữa!!"
+		},
+		{
+				"question": "Cái gì đánh ba, đánh mẹ, đánh cả gia đình?",
+				"answerTrue": "Bàn chải",
+			"answerFalse1": "Đòi nợ",
+			"answerFalse2": "Ai mà biết",
+			"answerFalse3": "Cái quạt",
+			"explain": "Nó đánh cả nhà không tha một ai hết nha:3!!"
+		},
+		{
+				"question": "Con gì mà đi thì nằm, đứng cũng nằm, khi nằm lại đứng?",
+				"answerTrue": "Bàn chân",
+			"answerFalse1": "Rôbot",
+			"answerFalse2": "Cái chổi",
+			"answerFalse3": "Con chó",
+			"explain": "Dễ quá phải hông bạn"
+		},
+		{
+				"question": "Giữa tiền và bạn gái, bạn chọn cái nào?",
+				"answerTrue": "Không chọn nhé",
+			"answerFalse1": "Gái",
+			"answerFalse2": "Tiền",
+			"answerFalse3": "Cả hai",
+			"explain": "Đúng rồi chọn làm gì hehe."
+		},
+		{
+				"question": "Đố bạn con gì ăn không có miệng, đi mà không có chân?",
+				"answerTrue": "Con cờ",
+			"answerFalse1": "Con giun",
+			"answerFalse2": "Con rắn",
+			"answerFalse3": "Con chim",
+			"explain": "Con cờ thì ăn và đi đâu cần chân và miệng làm gì nhỉ!"
+		}
+	]
+  }
